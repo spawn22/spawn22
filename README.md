@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Nextjs, Reactjs, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://my-portafolio-nextjs.vercel.app/]
+- 👨‍💻 All of my projects are available at https://my-portafolio-nextjs.vercel.app/
 
 - 💬 Ask me about **Reactjs**
 
